@@ -10,3 +10,5 @@
 ## Usage 
     Add camera types and disclaimer to config file first
     python checkout_main.py
+
+![checkout_app_image](https://user-images.githubusercontent.com/25714589/61909771-fc580b00-af00-11e9-8672-7333e34a1ab0.png)
